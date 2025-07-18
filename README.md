@@ -6,22 +6,22 @@ This is a responsive agency website template built with HTML, CSS, and Bootstrap
 
 ## ⚙️ Features  
 
-✅ **Responsive Layout:** 
+✅ **Responsive Layout:**   
 The website layout adjusts to different screen sizes, providing a seamless experience on both desktop and mobile devices.
 
-✅ **Bootstrap Integration:** 
+✅ **Bootstrap Integration:**   
 Bootstrap 5.3 is used for responsive grid systems, styling, and components.
 
-✅ **Font Awesome Icons:** 
+✅ **Font Awesome Icons:**   
 Various icons from Font Awesome are used for social media and other purposes.
 
-✅ **Smooth Scroll:** 
+✅ **Smooth Scroll:**   
 Provides a smooth scrolling effect for internal navigation links.
 
-✅ **Contact Form:** 
+✅ **Contact Form:**       
 Simple subscription form to capture user emails.
 
-✅ **Social Media Links:** 
+✅ **Social Media Links:**   
 Easily customizable links for various social media platforms.
 
 ---
